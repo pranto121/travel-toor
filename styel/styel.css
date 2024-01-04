@@ -1,0 +1,42 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap" rel="stylesheet">
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.hero{
+    background-image:url('../image/frist.jpg');
+    height:100vh;
+    background-position: bottom center; 
+    background-size: cover;
+}
+.hero h1{
+    color: aqua;
+    font-size: 100px;
+    text-align: center;
+    font: weight 700px;
+    /* margin-top: 60px; */
+     padding-top: 60px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     letter-spacing: 4px;
+}
+
+.word{
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
+    background-color: rgb(131, 173, 31);
+    padding: 60px;
+    border-color: black;
+    border-width: 15px;
+    border-style: solid;
+
+
+}
+
+.word h2{
+    text-align: center;
+}
